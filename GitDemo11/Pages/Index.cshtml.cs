@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 
 namespace GitDemo11.Pages
+    //Added comments to Index.cshtml
 {
     public class IndexModel : PageModel
     {
