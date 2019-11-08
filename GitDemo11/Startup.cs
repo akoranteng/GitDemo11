@@ -12,6 +12,7 @@ using Microsoft.Extensions.Hosting;
 namespace GitDemo11
 {
     public class Startup
+        //Added comments to Startup file
     {
         public Startup(IConfiguration configuration)
         {
