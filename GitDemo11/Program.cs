@@ -10,6 +10,7 @@ using Microsoft.Extensions.Logging;
 namespace GitDemo11
 {
     public class Program
+    //Added comments to program.cs
     {
         public static void Main(string[] args)
         {
